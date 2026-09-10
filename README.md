@@ -37,13 +37,13 @@ Dự án thực hiện **Human Parsing** từ video đầu vào, chuyển đổi
 
 ## Kết quả
 
-### Kết quả Human Parsing
+### 1. Kết quả Human Parsing
 
 <p align="center">
   <img src="./Result.png" width="800">
 </p>
 
-### Model Metrics
+### 2. Model Metrics
 
 | Rank-1 | Rank-5 | Rank-10 | mAP | mINP |
 | :------: | :------: | :------: | :------: | :------: |
