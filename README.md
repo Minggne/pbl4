@@ -40,7 +40,7 @@ Dự án thực hiện **Human Parsing** từ video đầu vào, chuyển đổi
 ### Kết quả Human Parsing
 
 <p align="center">
-  <img src="./result.png" width="800">
+  <img src="./Result.png" width="800">
 </p>
 
 ### Model Metrics
